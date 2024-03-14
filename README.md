@@ -2,7 +2,7 @@
 
 Guide for accessing the database of panoramic radiographs used in research on estimating human age through machine learning, focused on Brazilian patients.
 
-This dataset consists of 12827 dental panoramic X-ray images, some of them are from the same person, but with the hashes provided we can gether a single image from 10036 unique patients. The study protocol was reviewed and approved by the Local Research Ethics Committee, University of Pernambuco, Brazil (CAAE 42878921.6.0000.5208).
+This full dataset consists of 12827 dental panoramic X-ray images, some of them are from the same person, but we will provide hashed data to acess a single image from 10036 unique patients. The study protocol was reviewed and approved by the Local Research Ethics Committee, University of Pernambuco, Brazil (CAAE 42878921.6.0000.5208).
 
 # Dataset
 
