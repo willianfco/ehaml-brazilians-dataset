@@ -18,7 +18,7 @@ The use of the Brazilian Dental Panoramic X-Ray dataset is defined by the follow
 
 ## Request Dataset
 
-Please send an e-mail to Willian Oliveira (wfco@cin.ufpe.br) to receive a link to the dataset. Your e-mail must be sent from a valid institutional account, and include the following text (copy and paste the text below, filling the required fields):
+Please send an e-mail to Cleber Zanchettin (cz@cin.ufpe.br) to receive a link to the dataset. Your e-mail must be sent from a valid institutional account, and include the following text (copy and paste the text below, filling the required fields):
 
 "Subject: Request to download Brazilian Dental Panoramic X-Ray Dataset.
 
