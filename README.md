@@ -4,6 +4,23 @@ Guide for accessing the database of panoramic radiographs used in research on es
 
 This full dataset consists of 12827 dental panoramic X-ray images, some of them are from the same person, but we will provide hashed data to acess a single image from 10036 unique patients. The study protocol was reviewed and approved by the Local Research Ethics Committee, University of Pernambuco, Brazil (CAAE 42878921.6.0000.5208).
 
+# Citing our Work
+
+If you use this dataset in your research, please use the following BibTeX entry to cite our work:
+
+```bibtex
+@article{oliveira2024estimation,
+  title={Estimation of human age using machine learning on panoramic radiographs for Brazilian patients},
+  author={Oliveira, Willian and Albuquerque Santos, Mariana and Burgardt, Caio Augusto Pereira and Anjos Pontual, Maria Luiza and Zanchettin, Cleber},
+  journal={Scientific Reports},
+  volume={14},
+  number={1},
+  pages={19689},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+```
+
 # Dataset
 
 ## Terms and Conditions
@@ -41,20 +58,3 @@ This dataset will only be used for research purposes. I will not make any part o
 [your signature]"  
 
 **P.S. A link to the dataset file will be sent as soon as possible.**
-
-## Citing our Work
-
-If you use this dataset in your research, please use the following BibTeX entry to cite our work:
-
-```bibtex
-@article{oliveira2024estimation,
-  title={Estimation of human age using machine learning on panoramic radiographs for Brazilian patients},
-  author={Oliveira, Willian and Albuquerque Santos, Mariana and Burgardt, Caio Augusto Pereira and Anjos Pontual, Maria Luiza and Zanchettin, Cleber},
-  journal={Scientific Reports},
-  volume={14},
-  number={1},
-  pages={19689},
-  year={2024},
-  publisher={Nature Publishing Group UK London}
-}
-```
