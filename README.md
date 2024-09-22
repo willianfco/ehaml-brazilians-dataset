@@ -1,4 +1,4 @@
-# Estimation of Human Age using Machine Learning on Panoramic Radiographs: A Pilot Study for Brazilian Patients - DATASET
+# Estimation of human age using machine learning on panoramic radiographs for Brazilian patients - DATASET
 
 Guide for accessing the database of panoramic radiographs used in research on estimating human age through machine learning, focused on Brazilian patients.
 
@@ -41,3 +41,20 @@ This dataset will only be used for research purposes. I will not make any part o
 [your signature]"  
 
 **P.S. A link to the dataset file will be sent as soon as possible.**
+
+## Citing our Work
+
+If you use this dataset in your research, please use the following BibTeX entry to cite our work:
+
+```bibtex
+@article{oliveira2024estimation,
+  title={Estimation of human age using machine learning on panoramic radiographs for Brazilian patients},
+  author={Oliveira, Willian and Albuquerque Santos, Mariana and Burgardt, Caio Augusto Pereira and Anjos Pontual, Maria Luiza and Zanchettin, Cleber},
+  journal={Scientific Reports},
+  volume={14},
+  number={1},
+  pages={19689},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+```
